@@ -1,6 +1,6 @@
 
 # Hi, I'm Habib! 👋
-![Data Scientist](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Data Scientist]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif))
 
 ## 🚀 About Me :
 #### My name is Shaikh Habibur Rehaman and I'm a Software Engineer from Niali, Cuttack. I love to travel and explore new technology, I'm passionate about learning new things and helping people. Overall, I'm a passionate and driven individual with a positive attitude and outlook on life. I'm excited to see what the future holds and I'm ready to take on any challenge that comes my way!
