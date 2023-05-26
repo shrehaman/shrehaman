@@ -1,6 +1,6 @@
 
-# Hi, I'm Habib! 👋
-![Data Scientist](https://github.com/shrehaman/shrehaman/blob/main/machine%20learning.gif)
+# Hi, I'm<a href="https://shrehaman.in/"> Habib</a> ! 👋
+<img src="https://shrehaman.github.io/shrehaman/machine_learning.gif" height="300px" width="900px"> 
 
 ## 🚀 About Me :
 #### My name is Shaikh Habibur Rehaman and I'm a Software Engineer from Niali, Cuttack. I love to travel and explore new technology, I'm passionate about learning new things and helping people. Overall, I'm a passionate and driven individual with a positive attitude and outlook on life. I'm excited to see what the future holds and I'm ready to take on any challenge that comes my way!
@@ -58,9 +58,5 @@
 
 ---
 ### Thanks for Visiting my GitHub Profile!
-
 ---
-<p align="center">
-<img src="https://github.com/shrehaman/shrehaman/blob/main/snake.svg">
-</p>
-[![](https://visitcount.itsvg.in/api?id=shrehaman&icon=8&color=20)](https://shrehaman.in)
+[![](https://visitcount.itsvg.in/api?id=shrehaman&icon=7&color=10)](https://shrehaman.in)
