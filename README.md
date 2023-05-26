@@ -57,4 +57,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=shrehaman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://shrehaman.github.io/shrehaman/snake.svg">
+</p>
+
+---
 [![](https://visitcount.itsvg.in/api?id=shrehaman&icon=7&color=10)](https://shrehaman.in)
