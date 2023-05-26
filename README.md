@@ -61,7 +61,7 @@
 
 ---
 <p align="center">
-<img src="https://shrehaman.github.io/shrehaman/snake.svg">
+<img src="https://github.com/shrehaman/shrehaman/blob/main/snake.svg">
 </p>
 
 ---
