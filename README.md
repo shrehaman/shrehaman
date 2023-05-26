@@ -49,9 +49,7 @@
 ![Arduino](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=shrehaman&show_icons=true&theme=outrun&count_private=true" height="40%" width="50%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrehaman&theme=outrun&hide_border=false" height="30%" width="50%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrehaman&layout=compact&theme=outrun" height="auto" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shrehaman&show_icons=true&theme=outrun&count_private=true" height="150px" width="32%"/>    .  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrehaman&theme=outrun&hide_border=false" height="150px" width="32%"/>    .  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrehaman&layout=compact&theme=outrun" height="150px" width="32%"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shrehaman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
