@@ -1,6 +1,6 @@
 
 # Hi, I'm<a href="https://shrehaman.in/"> Habib</a> ! 👋
-<img src="https://shrehaman.github.io/shrehaman/machine_learning.gif" height="300px" width="900px"> 
+<img src="https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif" height="300px" width="900px"> 
 
 ## 🚀 About Me :
 #### My name is Shaikh Habibur Rehaman and I'm a Software Engineer from Niali, Cuttack. I love to travel and explore new technology, I'm passionate about learning new things and helping people. Overall, I'm a passionate and driven individual with a positive attitude and outlook on life. I'm excited to see what the future holds and I'm ready to take on any challenge that comes my way!
@@ -49,8 +49,8 @@
 ![Arduino](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=shrehaman&show_icons=true&theme=outrun&count_private=true" height="auto" width="80%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrehaman&theme=outrun&hide_border=false" height="auto" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shrehaman&show_icons=true&theme=outrun&count_private=true" height="40%" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrehaman&theme=outrun&hide_border=false" height="30%" width="50%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrehaman&layout=compact&theme=outrun" height="auto" width="80%"/>
 
 ## 🏆 GitHub Trophies
@@ -58,5 +58,9 @@
 
 ---
 ### Thanks for Visiting my GitHub Profile!
+---
+<p align="center">
+<img src="https://shrehaman.github.io/shrehaman/snake.svg">
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=shrehaman&icon=7&color=10)](https://shrehaman.in)
