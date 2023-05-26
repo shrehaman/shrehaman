@@ -1,6 +1,6 @@
 
 # Hi, I'm<a href="https://shrehaman.in/"> Habib</a> ! 👋
-<img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" > 
+<img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" height=30% width=60% > 
 
 ## 🚀 About Me :
 #### My name is Shaikh Habibur Rehaman and I'm a Software Engineer from Niali, Cuttack. I love to travel and explore new technology, I'm passionate about learning new things and helping people. Overall, I'm a passionate and driven individual with a positive attitude and outlook on life. I'm excited to see what the future holds and I'm ready to take on any challenge that comes my way!
