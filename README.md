@@ -63,6 +63,4 @@
 <p align="center">
 <img src="https://github.com/shrehaman/shrehaman/blob/main/snake.svg">
 </p>
-
----
-[![](https://visitcount.itsvg.in/api?id=shrehaman&icon=7&color=10)](https://shrehaman.in)
+[![](https://visitcount.itsvg.in/api?id=shrehaman&icon=8&color=20)](https://shrehaman.in)
