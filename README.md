@@ -1,5 +1,5 @@
 
-# Hi, I'm<a href="https://shrehaman.in/"> Habib</a> ! 👋
+# Hi, I'm<a href="https://github/shrehaman/"> Habib</a> ! 👋
 <img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" height=30% width=50% > 
 
 ## 🚀 About Me :
